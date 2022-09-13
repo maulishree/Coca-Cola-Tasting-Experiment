@@ -4,17 +4,18 @@ Coca-ColaTM is a widely popular brand with a strong global recognition. Even tho
 During this project, an experiment was designed to compare 5 different types of packaging of coca-cola (treatments), keeping external conditions constant, and guage if the coca cola of a particular kind of packaging was perceived as better tasting. 10 consumers (blocking factors) were used for tasting the treatments. We identified that at a time, a person could distinguish only 4 different types of cokes, so the response variable involved ranking of 4 different coca colas by each blocking factor.
 
 **Randomization/Experimental Design**
+
 Since Coca-Cola is marketed in multiple packaging formats such as Aluminium Cans, Glass Bottles and through proprietary vending machines/fountains. All of which are ubiquitously available to the consumer. There is a need to ascertain whether there is a difference in  taste for these varieties and if so, is it significant enough to impact consumer preference.
 
 Based on preliminary and informal discussions, we noted that there is a difference in sensory perception when it comes to bottled beverages, insofar as people having a particular preference for a brand along with the packaging.
 The formulations, specifically the Coca-Cola Syrup content is different for the various modes. Eg : In the case of fountain beverages, the syrup-to-carbonation ratio is controlled by the outlet and is not standardised as in the case of bottled or canned products.
 For the purpose of this experiment, we chose 5 most commonly available packaging choices as treatments :
 
-Glass Bottle
-Aluminium Can
-Plastic Bottle
-Gas Station Fountain
-Restaurant Fountain
+- Glass Bottle
+- Aluminium Can
+- Plastic Bottle
+- Gas Station Fountain
+- Restaurant Fountain
 
 The products were rated on a 4-point ranked scale, and 10 consumers were available to rank the products.
 Each consumer was given 4 randomised options to rank.
