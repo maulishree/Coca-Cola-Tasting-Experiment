@@ -1,4 +1,5 @@
 **Introduction**
+
 Coca-ColaTM is a widely popular brand with a strong global recognition. Even though the manufacturers claim that they use the same ingredients and preparation to make the soda, could there be differences in taste when the soda is contained in different packaging. Some people have extremely sensitive taste buds and they pick even the minutest of taste differences. Also, other factors like the temperature conditions, light etc. also alter the taste of the soda. 
 During this project, an experiment was designed to compare 5 different types of packaging of coca-cola (treatments), keeping external conditions constant, and guage if the coca cola of a particular kind of packaging was perceived as better tasting. 10 consumers (blocking factors) were used for tasting the treatments. We identified that at a time, a person could distinguish only 4 different types of cokes, so the response variable involved ranking of 4 different coca colas by each blocking factor.
 
